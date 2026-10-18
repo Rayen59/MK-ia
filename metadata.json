@@ -1,0 +1,6 @@
+{
+  "name": "MK Intelligence",
+  "description": "MK - Interface IA de conversation avancée, génération Imagine, compagnon vocal Co-Ami et protecteur de smartphone autonome.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
